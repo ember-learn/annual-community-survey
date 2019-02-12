@@ -4,18 +4,20 @@
 * [Compile list of questions from last year's survey](https://github.com/ember-learn/annual-community-survey/issues/2)
 * [Draft calendar/roadmap for the current year survey cycle](https://github.com/ember-learn/annual-community-survey/issues/3)
 * [Invite survey question feedback](https://github.com/ember-learn/annual-community-survey/issues/5)
-* [Review survey with core team liaison](https://github.com/ember-learn/annual-community-survey/issues/7)
 
 ### 02/13/19 \[W\] - 02/14/19 [R]
 * [Draft survey preview blog](https://github.com/ember-learn/annual-community-survey/issues/4)
-* [Create survey](https://github.com/ember-learn/annual-community-survey/issues/6)
 * [Update template emails for current year's use](https://github.com/ember-learn/annual-community-survey/issues/8)
 * [Review contacts spreadsheet](https://github.com/ember-learn/annual-community-survey/issues/9)
 * [Outline marketing plan for outreach](https://github.com/ember-learn/annual-community-survey/issues/10)
 * // Internal review at weekly Learning Team meeting (?)
 
-### 02/15/19 \[F\]
+### 02/16/19 \[Sa\]
 * // Internal review at weekly Core Team meetings (?)
+* [Create survey](https://github.com/ember-learn/annual-community-survey/issues/6)
+* [Review survey with core team liaison](https://github.com/ember-learn/annual-community-survey/issues/7)
+
+### 02/17/19 \[Su\]
 * [Activate website](https://github.com/ember-learn/annual-community-survey/issues/11)
 * [Send out survey](https://github.com/ember-learn/annual-community-survey/issues/12)
 
