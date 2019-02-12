@@ -5,7 +5,7 @@
 * [Draft calendar/roadmap for the current year survey cycle](https://github.com/ember-learn/annual-community-survey/issues/3)
 * [Invite survey question feedback](https://github.com/ember-learn/annual-community-survey/issues/5)
 
-### 02/13/19 \[W\] - 02/14/19 [R]
+### 02/13/19 \[W\] - 02/15/19 [F]
 * [Draft survey preview blog](https://github.com/ember-learn/annual-community-survey/issues/4)
 * [Update template emails for current year's use](https://github.com/ember-learn/annual-community-survey/issues/8)
 * [Review contacts spreadsheet](https://github.com/ember-learn/annual-community-survey/issues/9)
