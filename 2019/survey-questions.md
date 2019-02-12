@@ -36,7 +36,7 @@ This survey takes about fifteen minutes to complete. Submissions will be closed 
 
 ### How long have you been working with Ember? (multiple choice / radio)
 
-- < 3 months
+- \< 3 months
 - 3 - 6 months
 - 6 - 12 months
 - 1 - 2 years
@@ -225,12 +225,12 @@ This survey takes about fifteen minutes to complete. Submissions will be closed 
 - No requirements
 - I don’t know
 
-Does your business require applications to be internationalized? (radio)
+### Does your business require applications to be internationalized? (radio)
 
 - Yes
 - No
 
-In which sector(s) does your employer operate? Select all that apply:
+### In which sector(s) does your employer operate? Select all that apply:
 
 - Agriculture
 - Advertising
@@ -383,7 +383,7 @@ In which sector(s) does your employer operate? Select all that apply:
 - 1
 - 2 - 5
 - 5 - 10
-- > 10
+- \> 10
 
 ### What technologies are part of your deployment stack? (checkboxes) (de-duplicate and alphabetize before putting in Typeform)
 
@@ -479,14 +479,14 @@ Questions about your Ember addons/plugins (2)
 - 0
 - 1 - 3
 - 4 - 6
-- > 6
+- \> 6
 
 ### How many addons have you published publicly? (multiple choice / radio)
 
 - 0
 - 1 - 3
 - 4 - 6
-- > 6
+- \> 6
 
 
 ## Demographic Questions (5)
