@@ -3,30 +3,25 @@
 ### 02/12/19 \[T\]
 * [Compile list of questions from last year's survey](https://github.com/ember-learn/annual-community-survey/issues/2)
 * [Draft calendar/roadmap for the current year survey cycle](https://github.com/ember-learn/annual-community-survey/issues/3)
-
-### 02/13/19 \[W\]
-* [Draft survey preview blog](https://github.com/ember-learn/annual-community-survey/issues/4)
 * [Invite survey question feedback](https://github.com/ember-learn/annual-community-survey/issues/5)
-* [Create survey](https://github.com/ember-learn/annual-community-survey/issues/6)
 * [Review survey with core team liaison](https://github.com/ember-learn/annual-community-survey/issues/7)
 
-### 02/14/19 [R]
+### 02/13/19 \[W\] - 02/14/19 [R]
+* [Draft survey preview blog](https://github.com/ember-learn/annual-community-survey/issues/4)
+* [Create survey](https://github.com/ember-learn/annual-community-survey/issues/6)
 * [Update template emails for current year's use](https://github.com/ember-learn/annual-community-survey/issues/8)
 * [Review contacts spreadsheet](https://github.com/ember-learn/annual-community-survey/issues/9)
 * [Outline marketing plan for outreach](https://github.com/ember-learn/annual-community-survey/issues/10)
 * // Internal review at weekly Learning Team meeting (?)
-
 
 ### 02/15/19 \[F\]
 * // Internal review at weekly Core Team meetings (?)
 * [Activate website](https://github.com/ember-learn/annual-community-survey/issues/11)
 * [Send out survey](https://github.com/ember-learn/annual-community-survey/issues/12)
 
-
 ### 02/18/19 \[M\] \- 03/07/19 \[R\]
 * [Send out survey reminders](https://github.com/ember-learn/annual-community-survey/issues/13)
 * // Collect preliminary results, adjust marketing as needed (?)
-
 
 ### 03/08/19 \[F\]
 * // Close survey (?)
