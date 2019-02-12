@@ -11,9 +11,9 @@
 * [Review contacts spreadsheet](https://github.com/ember-learn/annual-community-survey/issues/9)
 * [Outline marketing plan for outreach](https://github.com/ember-learn/annual-community-survey/issues/10)
 * // Internal review at weekly Learning Team meeting (?)
+* // Internal review at weekly Core Team meetings (?)
 
 ### 02/16/19 \[Sa\]
-* // Internal review at weekly Core Team meetings (?)
 * [Create survey](https://github.com/ember-learn/annual-community-survey/issues/6)
 * [Review survey with core team liaison](https://github.com/ember-learn/annual-community-survey/issues/7)
 
