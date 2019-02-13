@@ -1,8 +1,4 @@
-# 2019 Ember Community Survey 
-Thanks for participating in the 2019 Ember Community Survey. There are about 50 questions that follow about your personal experience as an Ember developer, and about the details of your application(s).
-Your answers will inform contributors about what our community of users looks like, and in general contribute to a better understanding of our shared practices and goals.
-Please see [URL] for more details
-This survey takes about fifteen minutes to complete. Submissions will be closed on March 7th.
+# 2019 Ember Community Survey Questions
 
 ## Questions about your Experience with Ember (13)
 
