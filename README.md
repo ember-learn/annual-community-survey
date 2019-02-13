@@ -6,7 +6,8 @@ To suggest that a new question should be added to [the list of this year's quest
 ## 2019 Schedule
 
 * 02/13 - 02/16 : Survey question feedback
-* 02/17 - 03/08 : Survey open to the public
+* 02/18 : Survey Distributed
+* 02/18 - 03/08 : Survey open to the public
 * 03/18 : Results distributed
 
 
