@@ -44,5 +44,5 @@
 * // 2019 EmberConf
 
 
-## This work was generously supported by **[code all day](http://codeallday.com/)**
-* // TODO: Append code all day assets
+## Thank you! 
+Work on the 2019 Ember Community Survey is sponsored by **[code all day](http://codeallday.com/)**
