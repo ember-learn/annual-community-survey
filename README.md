@@ -1,6 +1,6 @@
 # Ember Community Survey (Annual)
 
-To suggest that a new question should be added, or give feedback on an existing question, please file an issue. 
+To suggest that a new question should be added to [the list of this year's questions](https://github.com/ember-learn/annual-community-survey/blob/master/2019/survey-questions.md), or give feedback on an existing question, please file an issue. 
 
 
 ## 2019 Schedule
