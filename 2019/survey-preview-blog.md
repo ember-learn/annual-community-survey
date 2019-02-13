@@ -10,7 +10,7 @@
 
 ## Sponsor
 
-![CAD Logo 1](/cad-right.svg)
+![](cad-right.svg)
 
-![](/cad-broken.svg)
+![](cad-consulting.pdf)
 
