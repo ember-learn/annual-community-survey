@@ -8,12 +8,12 @@ and [EmberConf 2019](https://emberconf.com/) with the release of the fifth
 annual Ember Community Survey, and as always, we want your input before we go
 live!
 
-In 2015 [201 Created](https://www.201-created.com/) began an annual survey of
-the Ember community. Over the past four years data from the survey has helped
+In 2015, [201 Created](https://www.201-created.com/) began an annual survey of
+the Ember community. Over the past four years, data from the survey has helped
 us measure progress on issues as wide ranging as diversity and browser support.
-In 2017 free text responses were permitted for the first time giving community
+In 2017, free text responses were permitted for the first time giving community
 participants a way to provide feedback to the project and project leadership a
-new way to hear their voices. As 201 Created shuts down it feels like a good
+new way to hear their voices. As 201 Created shuts down, it feels like a good
 time to promote the annual survey to an official project of the Ember Learning
 Team. Thank you 201 Created team (and interns who worked on this) for our first
 four years!
