@@ -10,6 +10,7 @@ We are thrilled to announce that we will be adding to the Spring excitement surr
 
 #### //TODO: Recap of previous years, link to 2018 / 201 [links], statement about response rates (~1500)
 
+
 The community is more vibrant than ever, with over 3000 members having joined the official discord server [link] that launched last September. We are absolutely aiming for our highest response rate ever this year!
 
 So how can you contribute?
@@ -28,7 +29,7 @@ Here are the key dates for this year's survey:
 
 
 
-### TODO: Thank this year's sponsor
+#### // TODO: Thank this year's sponsor
 
 ![](cad-right.svg)
 
