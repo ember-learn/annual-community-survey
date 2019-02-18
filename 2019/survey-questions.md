@@ -473,8 +473,8 @@
 - phantomjs or other pre-rendering
 - noscript tags
 - Search engine JavaScript execution (no pre-render)
-- My apps are indexable, but I don't know how
 - App is private, behind an authentication flow, or this question generally does not apply
+- I don't know
 - Other [text-field]
 Questions about your Ember addons/plugins (2)
 
