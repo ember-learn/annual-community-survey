@@ -150,7 +150,7 @@
 - Other (textbox)
 
 
-## Questions about your work (5)
+## Questions about your work (6)
 
 ### What best describes your role at work? (checkboxes)
 
@@ -222,10 +222,17 @@
 - No requirements
 - I don’t know
 
-### Does your business require applications to be internationalized? (radio)
+
+### What is the primary (human) language of apps developed at your business? (text box)
+
+
+### Does your business require applications to be internationalized (i.e., deployed in more than one language)? (radio)
 
 - Yes
 - No
+
+
+
 
 ### In which sector(s) does your employer operate? Select all that apply:
 
