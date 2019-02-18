@@ -526,10 +526,20 @@ Tracking the Ember community's progress on diversity issues is important to many
 - Some other race, ethnicity, or origin
 - Prefer not the answer
 
-## Wrapping up (1)
+
+## Wrapping up (2)
+
+
+### Did you participate in any of the following surveys? (check all that apply)
+
+* 2018 NPM JavaScript EcoSystem Survey
+* 2018 StackOverflow Developer Survey
+* GitLab 2018 Global Developer Survey
+* The State of JavaScript 2018
+* Others (text box)
+
 
 ### What would it take for you to feel great about using and recommending Ember for new projects? (free form text field)
-
 
 Your time and attention are the most valuable resources the Ember community has. Thanks for spending them with us! Please consider sharing this survey with your social networks to help us get a fair sample of the community.
 
