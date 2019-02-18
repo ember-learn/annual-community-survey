@@ -193,9 +193,21 @@
 - Unimportant
 - I did not know Ember
 
-## Questions about your place of work (5)
 
-(Please encourage your colleagues to fill out the survey!)
+## Questions about your place of work-- Please encourage your colleagues to fill out the survey! (7) 
+
+
+### How many developers at your company are responsible for writing Front-End code? (multiple choice / radio)
+
+- None
+- 1-10
+- 11-20
+- 21-50
+- 51-100
+- 101-500
+- More than 500
+- I Don’t Know
+
 
 ### How many developers at your company are responsible for writing Ember code? (multiple choice / radio)
 
@@ -204,9 +216,10 @@
 - 11-20
 - 21-50
 - 51-100
-- 101-500 (Please encourage your colleagues to fill out the survey!)
+- 101-500
 - More than 500
 - I Don’t Know
+
 
 ### At this time next year, how many Ember developers does your company plan to employ? (multiple choice / radio)
 
@@ -230,9 +243,6 @@
 
 - Yes
 - No
-
-
-
 
 ### In which sector(s) does your employer operate? Select all that apply:
 
