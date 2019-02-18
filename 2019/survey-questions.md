@@ -364,8 +364,8 @@
 
 - Blanket.js
 - Capybara
-- Mocha (via ember-mocha or ember-cli-mocha)
-- QUnit (via ember-qunit or ember-cli-qunit)
+- Ember-Mocha
+- Ember-QUnit (Ember-CLI default)
 - Jasmine
 - Jest
 - Karma
