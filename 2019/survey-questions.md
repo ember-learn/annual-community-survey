@@ -129,7 +129,8 @@
 - Windows
 - Other (textbox)
 
-### What other front-end framework(s) do you have experience with? (checkboxes)
+### What is your experience with other front-end framework(s)?
+#### (checkbox matrix: Beginner/Intermediate/Advanced)
 
 - Angular 1.x
 - Angular 2.x
